@@ -4,7 +4,7 @@
 # Arch Dustro
 Arch Dustro (or just "Dustro") is an Arch-Linux based Distro with a custom Desktop Environment (TilDE) made entirely in Rust.
 Note: Dustro, and more specifically TilDE, the Desktop Environment are still in development and likely won't be released, or available for a long time.
-Ideally the first stable version is to be release before 2027.
+Ideally the first stable version is to be release before 2028.
 
 ## The Developers
 Dustro is made entirely by me, Dot Underscore (or "Dus" for short.)
