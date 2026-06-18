@@ -23,7 +23,7 @@ Write the Hashtag terminal emulator and get it to first full release.
 Write the Asterisk file manager using the Ampersand APIs and get to first stable release.
 
 # Percent
-Write the TilDE power manager for laptops, and other power efficiency related things.
+Write the TilDE power manager for laptops, and other hardware efficiency related things.
 
 ## TilDE 
 Finish basic components and write the Desktop Environment script to connect everything.
