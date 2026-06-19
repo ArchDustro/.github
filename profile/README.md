@@ -32,7 +32,7 @@ Status: Currently in development.
 https://github.com/ArchDustro/underscore
 
 # Misc info.
-See ROADMAP.md for more details.
+See [ROADMAP.md](https://github.com/ArchDustro/.github/blob/main/ROADMAP.md) for more details.
 
 Join the [Discord server](https://discord.gg/puRAryDm8w)!
 
